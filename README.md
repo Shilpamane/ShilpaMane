@@ -1,16 +1,13 @@
-## Hi there 👋
+- # Hi, I'm Shilpa 👋  
 
-<!--
-**Shilpamane/ShilpaMane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Aspiring Data Analyst** | Passionate about transforming raw data into actionable insights  
+📊 Skilled in **SQL • Python • Power BI • Tableau • Excel**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- **Data Analysis**: EDA, Customer Segmentation, Market Basket Analysis, Churn Prediction
+- **Business Intelligence**: Power BI, Tableau
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL
+- **Data Handling**: Data Cleaning, Transformation, Visualization
+- **Statistical Techniques**: A/B Testing, Correlation Analysis, Descriptive Stats

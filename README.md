@@ -1,8 +1,7 @@
 - # Hi, I'm Shilpa 👋  
 
-💡 **Aspiring Data Analyst** | Passionate about transforming raw data into actionable insights  
-📊 Skilled in **SQL • Python • Power BI • Tableau • Excel**  
-
+💡 Data Analyst passionate about transforming raw data into actionable insights.
+Hands-on experience in SQL, Python, Excel, Power BI, and Tableau through real-world projects and internship work.
 ---
 
 ## 🚀 Skills & Tools
